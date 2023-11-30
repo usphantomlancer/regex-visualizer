@@ -1,4 +1,4 @@
-# Regex-Vis
+# Regex-Visualizer
 Regex visualizer & editor
 
 ## Preview
